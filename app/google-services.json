@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638260643859",
+    "project_id": "ciudades-d11b1",
+    "storage_bucket": "ciudades-d11b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638260643859:android:a0299d5c5b0850a24e17e6",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638260643859-55va10pnrdp7uf4cbh37q13ohmdosifl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx11b8xm7NM35aUgZuOPwQ9oYa5RTuvzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638260643859-55va10pnrdp7uf4cbh37q13ohmdosifl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
